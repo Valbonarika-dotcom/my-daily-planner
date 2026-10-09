@@ -1,0 +1,13 @@
+
+{
+  "name": "My Daily Planner",
+  "short_name": "Daily Planner",
+  "description": "Organizza la tua giornata con agenda, attività e lista della spesa. Disponibile in italiano e inglese.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d5b7ca"
+}
+  
